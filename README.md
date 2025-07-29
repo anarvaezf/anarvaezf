@@ -22,7 +22,7 @@ Currently exploring **Unity** to expand into **game development**.
   <a href="https://azure.microsoft.com/" title="Azure"><img src="./assets/logos/azure-original.svg" alt="Azure" width="40" height="40"/></a>
   <a href="https://www.databricks.com/" title="Databricks"><img src="./assets/logos/dbrx-color.svg" alt="Databricks" width="40" height="40"/></a>
   <a href="https://nodejs.org/" title="Node.js"><img src="./assets/logos/nodejs.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" title="SQL Server"><img src="./assets/logos/sqlserver.svg" alt="SQL Server" width="40" height="40"/></a> <!-- si no descargaste este, puedes omitir -->
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" title="SQL Server"><img src="./assets/logos/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/></a> <!-- si no descargaste este, puedes omitir -->
   <a href="https://www.docker.com/" title="Docker"><img src="./assets/logos/docker-original.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" title="Firebase"><img src="./assets/logos/firebase.svg" alt="Firebase" width="40" height="40"/></a>
 
