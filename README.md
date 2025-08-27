@@ -16,7 +16,7 @@ Currently exploring **Unity** to expand into **game development**.
 
 
 <p align="left">
-  <!-- Backend -->
+  <a href="https://flutter.dev/" title="Flutter"><img src="./assets/logos/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
   <a href="https://dotnet.microsoft.com/" title=".NET"><img src="./assets/logos/dotnetcore-original.svg" alt=".NET" width="40" height="40"/></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="./assets/logos/csharp-original.svg" alt="C#" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/" title="Azure"><img src="./assets/logos/azure-original.svg" alt="Azure" width="40" height="40"/></a>
@@ -31,7 +31,6 @@ Currently exploring **Unity** to expand into **game development**.
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="./assets/logos/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="./assets/logos/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
   <a href="https://mui.com/" title="MUI"><img src="./assets/logos/mui.svg" alt="MUI" width="40" height="40"/></a>
-  <a href="https://flutter.dev/" title="Flutter"><img src="./assets/logos/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" title="VS Code"><img src="./assets/logos/vscode.svg" alt="VS Code" width="40" height="40"/></a> <!-- si no tienes este, omítelo -->
   <a href="https://www.microsoft.com/en-us/windows" title="Windows"><img src="./assets/logos/windows8-original.svg" alt="Windows" width="40" height="40"/></a>
   <a href="https://www.apple.com/macos/" title="macOS"><img src="./assets/logos/apple-original.svg" alt="macOS" width="40" height="40"/></a>
