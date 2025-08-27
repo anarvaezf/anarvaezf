@@ -4,14 +4,7 @@
 
 ---
 
-## ✔️ Certifications
-
-- [Professional Scrum Master (PSM)](https://www.credly.com/badges/036b9223-a0eb-4421-aaaa-082becda6ff9/linked_in_profile) – Scrum.org *(certified @ Improving)*
-
----
-
 ## 🧰 Tech Stack
-
 
 <p align="left">
   <a href="https://flutter.dev/" title="Flutter"><img src="./assets/logos/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
@@ -37,13 +30,17 @@
   <a href="https://openai.com/" title="OpenAI"><img src="./assets/logos/openai.svg" alt="OpenAI" width="40" height="40"/></a>
 </p>
 
+---
+
+## ✔️ Certifications
+
+- [Professional Scrum Master (PSM)](https://www.credly.com/badges/036b9223-a0eb-4421-aaaa-082becda6ff9/linked_in_profile) – Scrum.org *(certified @ Improving)*
 
 ---
 
 ## 🚀 Goals
 - Strengthen and deliver enterprise-grade projects with .NET, React, Azure & SQL Server  
 - Build clean, maintainable mobile apps using Flutter  
-- Experiment with Unity for future game and interactive experiences  
 
 ---
 
