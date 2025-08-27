@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Arturo Narváez Fontana
+# 👋 Hi there, I'm Arturo Narváez Fontana
 
 **Full Stack Developer** with a strong background in enterprise solutions using **.NET**, **React**, **Azure**, and **SQL Server**, and a growing passion for **mobile development with Flutter**.
 
@@ -6,13 +6,13 @@ Currently exploring **Unity** to expand into **game development**.
 
 ---
 
-### ✔️ Certifications
+## ✔️ Certifications
 
 - [Professional Scrum Master (PSM)](https://www.credly.com/badges/036b9223-a0eb-4421-aaaa-082becda6ff9/linked_in_profile) – Scrum.org *(certified @ Improving)*
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 
 <p align="left">
@@ -42,13 +42,28 @@ Currently exploring **Unity** to expand into **game development**.
 
 ---
 
-### 🚀 Goals
+## 🚀 Goals
 - Strengthen and deliver enterprise-grade projects with .NET, React, Azure & SQL Server  
 - Build clean, maintainable mobile apps using Flutter  
 - Experiment with Unity for future game and interactive experiences  
 
 ---
 
-### 📫 Get in Touch
+## 📫 Get in Touch
 - [LinkedIn](https://linkedin.com/in/arturo-narvaez-fontana)  
 - GitHub: [@anarvaezf](https://github.com/anarvaezf)
+- Email:[arturo.narvaezf@gmail.com](mailto:arturo.narvaezf@gmail.com)
+
+## 🧩 Projects & Publications
+
+### story_carousel
+
+Instagram-like stories carousel for Flutter with auto-advance, gestures, and progress indicators.
+
+* Auto-play with per-item durations
+* Tap left/right to navigate, long-press to pause
+* Optional controller for imperative control
+* Minimal, predictable API
+
+- Pub.dev: https://pub.dev/packages/story_carousel  
+- GitHub: https://github.com/anarvaezf/flutter_story_carousel  
