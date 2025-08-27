@@ -2,8 +2,6 @@
 
 **Full Stack Developer** with a strong background in enterprise solutions using **.NET**, **React**, **Azure**, and **SQL Server**, and a growing passion for **mobile development with Flutter**.
 
-Currently exploring **Unity** to expand into **game development**.
-
 ---
 
 ## ✔️ Certifications
