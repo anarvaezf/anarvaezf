@@ -38,9 +38,8 @@
 
 ---
 
-## 🚀 Goals
-- Strengthen and deliver enterprise-grade projects with .NET, React, Azure & SQL Server  
-- Build clean, maintainable mobile apps using Flutter  
+## 🚀 Profile
+- [https://anarvaezf.github.io/](https://anarvaezf.github.io/)  
 
 ---
 
