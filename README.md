@@ -67,6 +67,6 @@
 ---
 
 ## 📫 Get in Touch
-- [LinkedIn](https://linkedin.com/in/arturo-narvaez-fontana)  
+- Linkedin: [LinkedIn](https://linkedin.com/in/arturo-narvaez-fontana)  
 - GitHub: [@anarvaezf](https://github.com/anarvaezf)
-- Email:[arturo.narvaezf@gmail.com](mailto:arturo.narvaezf@gmail.com)
+- Email: [arturo.narvaezf@gmail.com](mailto:arturo.narvaezf@gmail.com)
